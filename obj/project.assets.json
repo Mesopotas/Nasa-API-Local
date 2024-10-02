@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nicolás\\Desarrollo web en Entorno Servidor\\Nasa-API-Local\\Nasa-API-Local.csproj",
+      "projectUniqueName": "d:\\Nicolás\\Desarrollo web en Entorno Servidor\\Nasa-API-Local\\Nasa-API-Local.csproj",
       "projectName": "Nasa-API-Local",
-      "projectPath": "D:\\Nicolás\\Desarrollo web en Entorno Servidor\\Nasa-API-Local\\Nasa-API-Local.csproj",
+      "projectPath": "d:\\Nicolás\\Desarrollo web en Entorno Servidor\\Nasa-API-Local\\Nasa-API-Local.csproj",
       "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
-      "outputPath": "D:\\Nicolás\\Desarrollo web en Entorno Servidor\\Nasa-API-Local\\obj\\",
+      "outputPath": "d:\\Nicolás\\Desarrollo web en Entorno Servidor\\Nasa-API-Local\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

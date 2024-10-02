@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nasa-API-Local")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01264dc8648349d19956261981f436b21e0c63ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d97f49cf00d2a23cd6593b043078dcff532c6ea8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nasa-API-Local")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nasa-API-Local")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
